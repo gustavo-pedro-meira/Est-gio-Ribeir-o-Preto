@@ -1,0 +1,6 @@
+def inverter(string):
+    lista = []
+    lista.extend(string)
+    lista.reverse()
+    return ''.join(lista)
+print(inverter('Olá mão'))
