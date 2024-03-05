@@ -1,0 +1,10 @@
+
+def fibonacci(numero):
+    a, b = 0, 1
+    while a < numero:
+        a, b = b, a + b
+        if a == numero:
+            return True
+        else:
+            return False
+print(fibonacci(11))
