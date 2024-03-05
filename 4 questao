@@ -1,0 +1,5 @@
+Ligar o primeiro interruptor e aguardar.
+Ligar o segundo interruptor e entrar na sala das lâmpadas.
+Se a lâmpada estiver acesa, o segundo interruptor a controla.
+Se a lâmpada estiver apagada e com temperatura normal, o primeiro interruptor a controla.
+Se a lâmpada estiver apagada, mas ainda quente, o terceiro interruptor a controla.
